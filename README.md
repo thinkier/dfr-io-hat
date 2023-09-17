@@ -1,4 +1,5 @@
 # DFRobot IO Expansion Hat Library for Rust
+Discontinued: Failed to reproduce the OEM software. The code is copied 1:1 though. Use at own risk.
 
 ## Objectives
 
